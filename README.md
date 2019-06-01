@@ -1,4 +1,4 @@
-# Maker Alliance
+# Maker things
 
 A collection of resources to support fizzPOP and other Makerspaces/Hackerspaces.
 
