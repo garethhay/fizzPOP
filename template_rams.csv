@@ -1,0 +1,299 @@
+Show name:,XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX,,,,,,,,,
+Stand name:,XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX,,,,,,,,,
+Stand number:,XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX,,,,,,,,,
+Venue:,XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX,,,,,,,,,
+Venue address:,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+Build start:,DD/MM/YY,Build finishes:,DD/MM/YY,,,,,,,
+Show starts:,DD/MM/YY,Show finishes:,DD/MM/YY,,,,,,,
+Derig starts:,DD/MM/YY,Derig finishes:,DD/MM/YY,,,,,,,
+,,,,,,,,,,
+Written by:,,,Signed:,,,,,,,
+,,,,,,,,,,
+Onsite lead:,,,Signed:,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+Location risks:,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+Show risks:,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+Info received:,Organiser RAMS,Y/N,Location plans,Y/N,,,,,,
+,Known site,Y/N,Other RAMS,Y/N,,,,,,
+Notes:,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+"The purpose of Risk Assessment and control measures are to reduce the residual risk to as low as possible ""acceptable levels"".",,,,,,,,,,
+1 to 6 = Acceptable Risk (L),"8 to 12 = With adequate controls, acceptable risk (M)",15 to 25 = Unacceptable Risk (H),,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+Hazards,Consequences,Who is at risk,Probability,Severity,Risk level,Controls,Probability,Severity,Risk level,L / M / H
+Identify hazards in the halls/rooms and on the perimeter roads that could reasonably be expected to result in significant harm,"What could result from the hazard?
+First aid injury – minor cuts sprains, bruises
+RIDDOR 3-day injury – broken fingers, toes, sprained tendons or muscles, illness (tiredness, stress, gastric)
+Serious injury – head injury, loss of consciousness, broken bones, dislocations, respiratory problems. Usually an injury from which full recovery is likely.
+Death or very serious Injury to one person - Loss of limb, paralysis or life changing injury from which full recovery is unlikely.
+Death or very serious injury to more than one person","Who might be harmed?
+
+Staff/volunteers/members (S) Exhibitors (E) Contractors (C) Young/new inexperienced staff/volunteers/members (Y) Visitors (V) Others (O)",Probility of Hazard,Severity if it occurs,Probability X Severity = Risk Level,"Is the risk adequately controlled?
+Consider hierarchy of controls
+Eliminate Substitute Reduce Isolate Control PPE DisciplineDo the controls…………
+Comply with industry/legal standards?
+Represent best practice?
+Reduce risk as far as is reasonably practicable?",Residual probability after controls,Residual severity after controls,Residual risk level after controls,Low / Medium / High residual risk levels
+These control measures apply to all hazards in this risk assessment,Personal injury,"S, E, C, Y, O",5,3,15,"Appropriate PPE:
+Footwear with steel or composite toes and midsoles (SBP rating upwards) to be worn at all times during rig and de-rig.
+High vis vests to be worn during rig and de-rig at all times. The exception to this is when working in hotels and not in the vicinity of vehicles.
+Hard hats to be worn when dictated by venue, health and safety representatives of the venue and/or organisers. The use of hard hats is compulsory when working at height and below others working at height.
+Other safety
+Follow venue safety rules
+Follow eGuide guidance
+Follow the g-guide as basic minimum
+Proactively managed by project manager / lead",2,3,6,M
+"Vehicles:
+Moving vehicles and plant
+Forklift truck
+Fumes – vehicles, LPG, noxious substances","Impact injuries
+Collision
+Minor injury
+Major injury","S, E, C, Y, O",3,4,12,"Use approved and competent staff/volunteers/members/volunteers/members and / or contractors
+All drivers have full licences which are regularly checked
+Abide by house (venue) traffic rules and traffic marshal’s instructions.
+When reversing and/ or vision is restricted, a banks man must be used.
+When using a mobile phone or radio onsite all staff/volunteers/members and contractors advised to move out of any walkways or roadways.
+All engines to be turned off when vehicles idle. Avoid where possible taking vehicles into the building.
+Proactively managed by project manager / lead",1,4,4,L
+Manual Handling,"Injury from dropped loads
+Muscular/skeletal problems
+Slips trips and falls on a level surface
+Falls on stairs and / or escalators","S, G, C, O",3,2,6,"Use approved and competent staff/volunteers/members/volunteers/members and / or contractors
+Try to avoid lifting, if unavoidable, use mechanical means where possible, if not use wheeled flight cases and / or trolleys. Load any items where possible without wheels onto cases with wheels.
+If going up / down stairs assess the weight and size of case and ask for help if needed.
+Ensure there is a clear pathway
+All vehicles have ramps or tail lift where possible for easy load and unload.
+Yearly manual handling training mandatory for all staff/volunteers/members and offered to contractors.
+Proactively managed by project manager / lead tech",1,2,2,L
+"Cables:
+Trailing cables
+
+Cuts to cables exposing live ends
+Cuts to cables exposing sharp or dangerous cores
+Cables coming into contact with liquids
+
+Hanging cables","Slips trips and falls on level surface
+electric shock
+fires
+Electrocution
+Serious injury strangulation
+Minor injury
+Eye damage (invisible light)","S, E, C, Y, O, V",3,4,12,"Use approved and competent staff/volunteers/members and / or contractors
+Cables are not to trail across aisles. Liaise with venue to ensure that sufficient power outlets are supplied
+Cable ramping used for all floor cabling which crosses a walk way where cables cannot be run under the floor. No cable to be run directly under carpet.
+Any cables that cannot be laid under the floor to be approved beforehand with the organisers or client if possible. If not possible they need to be agreed onsite with the organisers or client.
+All overhead cables to be securely fastened
+Take care not to look into cables in case they are live.
+Keep work area clean, use appropriate vessels to catch any offcuts and use appropriate PPE when cutting cables.
+Proactively managed by project manager / lead",1,4,4,L
+"Working at heights
+
+Objects falling from height",Death/very serious injury from falls from heights,"S, E, C, O",3,4,12,"Use approved and competent staff/volunteers/members and / or contractors
+Project manager to liaise with organiser and / or client regarding danger areas and planned high works
+All lifting equipment and accessories must comply with LOLER (Lifting Operations and Lifting Equipment Regulations 1998, Approved Code of Practise and guidance)
+Tools to be kept on lanyards as far as is reasonably practicable. If not practicable or feasible, controlled access around the area will be erected.
+Static and mobile access working platforms must be fit for purpose (see Working and mobile access platforms)
+Operatives working at height on truss must be harnessed.
+Operatives working at height must have suitable head protection e.g. hard hats and hard hats must be worn in areas of high works
+Proactively managed by project manager / leads / lead",1,4,4,L
+"Working platforms
+Mobile access towers
+Mobile elevated working platforms (MEWPS) including scissor lifts, cherry pickers
+Genie lifts
+Scaffold towers
+Ladders
+FLT access cradle
+(also see working at height)","Collapse of equipment
+Persons and objects falling from height","S, E, C, O",3,4,12,"Use approved and competent staff/volunteers/members and / or contractors
+Any use of equipment must be used in accordance with Construction (Health Safety and Welfare) Regs (also see HSE info sheet 49)
+All mobile MEWPS and FLT access cradles must comply with LOLER and have had a Thorough Inspection (TI) in the previous 6 months
+All working platforms to be constructed as per manufacturers guidelines. These should be provided with every platform. If this manual is not present, please advise the Project manager / lead and DO NOT construct until the correct guidelines have been sourced.
+Scaffold Towers must be fit for purpose. Outriggers to be used correctly with the correct height to width ratio (3.5 x base width indoors and 3 x base width outdoors). They may not be moved whilst in use and wheels must be locked off. (also see HSE info sheet 10)
+Ladders must be footed or tied off and must be an appropriate industrial rating.
+When working from a ladder, three points of contact must be maintained at all times – this does not need to be for example; two feet and one hand.
+Use a trained PASMA user to monitor build and use of scaffold tower
+Follow protocols & consult contractors when involved in major builds
+Proactively managed by project manager / lead / workshop manager",1,4,4,L
+"Electricity:
+
+High Voltage Electricity
+
+Faulty Electrics","Death,
+Fire
+Major / Serious Injury
+Electric Shock","S, E, C, Y, O, V",4,5,20,"Use approved and competent staff/volunteers/members and / or contractors
+PAT test all equipment on a regular, scheduled and monitored basis following guidelines
+All workshop and contractors and staff/volunteers/members to ensure that the correct cable is attached to the correct end and that it is being used for the right application
+Visual checks of cables and equipment to be carried out before leaving the workshop, onsite by staff/volunteers/members and contractors and upon return to the warehouse.
+Wherever practicably possible, use moulded IEC
+If the cable is incorrect, the lead tech / PM should be alerted and the correct cable must be sourced.
+Proactively monitor the load on the system.
+Only jump power down when using rated and regulated cables and rubber boxes. If you are unsure about this, please check with an electrician before proceeding.
+Proactively managed by project manager / lead/ lead tech / workshop manager",1,4,4,L
+Tools,"Injury from defective tools or unauthorised or improper use
+Electric shock and fire from faulty electrical equipment
+Injury from Metal
+Injury from invisible laser","S, E, C, O",2,4,8,"Use approved and competent staff/volunteers/members and / or contractors
+Power reduced through centre tapped earths to 110v where available
+Project Manager to monitor for obviously defective equipment and improper or unauthorised use likely to cause injury
+Any portable electrical equipment provided must be inspected and tested
+Proactively managed by project manager / lead / warehouse manager",1,4,4,L
+Excessive working hours – long and/ or early and/ or late,"Accidents, injury and damage due to inattention and tiredness
+Stress","S, C, O",3,2,6,"Use approved and competent staff/volunteers/members and / or contractors
+All early or late working to be agreed with the organiser
+Working hours to be monitored by project manager / lead taking into consideration early starts and late finishes. It is the responsibility of the member of staff/volunteers/members or contractor to address this with the lead / project manager if they feel it is becoming an issue and could affect their work and / or could lead to injury to themselves or others.
+Proactively managed by project manager / lead/ lead",1,3,3,L
+Noise (excessive),"Noise induced hearing loss
+Failing to hear safety messages","S, G, C, O",2,3,6,"Use approved and competent staff/volunteers/members and / or contractors
+Separate assessment required if background noise levels likely to exceed 80 dB(A) as a daily average.
+Proactively managed by project manager / lead",1,3,3,L
+Sharp objects on floor and in waste,"Puncture wounds to feet
+Blood poisoning, tetanus and other illness from infection
+Cuts to hands of cleaning operatives","S, G, C, O",3,3,9,"Use approved and competent staff/volunteers/members and / or contractors
+staff/volunteers/members and contractors are not to discard sharp objects and to ensure that nails and screws are removed or hammered flat
+Proactively managed by project manager / lead",2,2,4,L
+Working environment visibility,Insufficient lighting leading to slips trips falls and injury from other accidents such as impact with vehicles,"S, E, C, O",2,3,6,"Use approved and competent staff/volunteers/members and contractors
+Venue required to provided adequate working lights
+If you believe lighting is inappropriate, please discuss with lead / project manager
+Proactively managed by project manager / lead",1,2,2,L
+Multiple contractors working in a single environment,Injury to persons and equipment,"S, G, C",3,4,12,"Use approved and competent staff/volunteers/members and / or contractors
+Liaise with other contactors on anything that may affect their work
+Proactively managed by project manager / lead",1,3,3,L
+staff/volunteers/members or contractors working under the influence of Alcohol or Drugs,"Incapacitation leading to:
+Falls from height
+Impact injuries
+Falling objects","S, E, C, O, Y, V",2,3,6,"Use approved and competent staff/volunteers/members and / or contractors
+Consumption of alcohol on site is forbidden and gross misconduct. Anyone found to be or believed to be under the influence of illegal substances or alcohol will be removed immediately from site.
+All staff/volunteers/members to monitor for signs of illegal drug use or incapacitation from alcohol
+Proactively managed by project manager / lead",1,3,3,L
+Hazardous substances,"Acute effects of noxious fumes, irritation to eyes and lungs
+Fire
+Burns to skin
+Exposure to carcinogens","S, E, C, O",2,3,6,"Use approved and competent staff/volunteers/members and / or contractors
+Makerspace members requirements are limited to Glass Cleaner, Methylated Spirits and other similar flammable substances for cleaning. No other hazardous substances are to be used without specific authorisation from the project manager / lead
+Hazardous substances to be in clearly marked containers of no more than 500ml
+Proactively managed by project manager / lead",1,3,3,L
+Young Persons,Lower perception of risk,"S, E, C, O, Y, V",2,3,6,"Separate risk assessments required for any operatives from 16 to 18 (inclusive)
+No one under the age of 16 is permitted to work in the halls
+Proactively managed by project manager / lead / project manager / lead",1,3,3,L
+Blocked aisles,"Slips trips and falls on level surface
+Blocked emergency access for evacuation or emergency vehicles","S, E, C, O",3,3,9,"Use approved and competent staff/volunteers/members and / or contractors
+Designated emergency aisles to be kept clear at all times
+No equipment to be left traffic or designed emergency aisles.
+Proactively managed by project manager / lead",2,2,4,L
+Major incident / civil emergency,"Death
+Injury","S, E, C, O, V, Y",3,5,15,"Must following the organisers emergency plan
+All staff/volunteers/members and contractors to follow tannoy instructions",2,4,4,L
+"Weather conditions
+Wet and or cold/snow
+
+Hot
+
+
+
+Windy","Slips in wet or icy conditions, vehicle accidents
+Hypothermia
+
+Heat stress, fainting
+Sun burn and skin cancers from over exposure to sun (long term)
+
+Injury from debris blown around
+Injury and damage caused by objects blown off FLT’s
+Wind effect on working at heights","S, E, C, O",2,3,6,"Use approved and competent staff/volunteers/members and / or contractors
+When cargo doors are open halls must be effectively treated as outdoors and suitable clothing is to be worn
+Those working outside to have head covering and sun cream with high UV protection
+Venue to ensure that drinking water is freely available
+Separate risk assessment required for exceptional weather
+Liaise with organiser/venue traffic staff/volunteers/members if conditions are hazardous to vehicle movement
+Project Manager to liaise with organiser regarding safe conditions for lifting and working at height.
+Comply with working at height part of risk assessment
+Proactively managed by project manager / lead tech / project manager / lead",1,3,3,L
+Fire,"Injury and damage from heat, flames and smoke","S, E, C, O",2,5,10,"Use approved and competent staff/volunteers/members and / or contractors
+See organiser’s fire risk assessment and comply with arrangements
+spillages
+Use of flammable substances to be limited to 1 Litre containers maximum
+staff/volunteers/members and subcontractors are not permitted to smoke in the halls
+Proactively managed by project manager / leads",1,5,5,M
+Breakdown in internal communications,"Non-compliance on site, due to lack of knowledge, inability to meet targets, incorrect collection of data, breaking legislation due to lack of communication.","C
+
+SB",3,3,9,"Periodic audit of communications, competence and awareness, and compliance with system roles and responsibilities
+Regular meetings with all departments ensuring all issues, incidents, non-compliances, documentation and changes are distributed throughout the team
+Regular consultation with applicable key external stakeholders, feeding information back into the system
+Proactively managed by Management Representative",3,2,6,M
+Breakdown in external communications,Failure to follow Client / Venue rules / legislation. Failure to meet supply chain objectives.,"C
+SB
+V",3,4,12,,3,2,6,M
+Increased Traffic Movements,"Local air pollution. Nuisance to local community, wildlife & habitats. Congestion. Release of greenhouse gas to atmosphere contributing to climate change","SB
+C
+LC
+V",3,3,9,"Coordination of transport to site and careful route planning
+Engines of vehicles turned off when not in use – included in pre-event briefing as applicable
+Compliance with London Emission Zone
+Encourage the use of low CO2 vehicles for transportation
+All vehicles comply with EU regulations and hold current MOT certification
+Encourage staff/volunteers/members to car share or use public transport, where possible
+Full & correct loading policy on all vehicles
+Proactively managed by Management Representative(s)",3,2,6,L
+Energy consumption when carrying out activities through use of equipment,Increase in greenhouse gas emissions,"C
+S
+LC",4,2,8,"Low energy usage equipment to be used where possible
+Measurement and records of energy usage (where possible) so that compliance with objectives can be measured
+Switch off policy to be implemented when equipment is not in use and included in pre-event briefing as applicable
+Proactively managed by Management Representative(s)",2,2,4,L
+Waste production from activities (illegal disposal of waste and lack of recycling),Unnecessary waste of materials and resources. Waste to landfill or incineration. Opportunities for recycling.,"S
+SB
+C
+V",3,2,6,"Reduce waste generated via reusable packaging and maximise procurement opportunities and resource management
+Good standards of housekeeping & storage arrangements
+Reuse of materials wherever possible
+Segregation of waste streams in accordance with waste management plan
+Use of licenced waste carrier (where applicable)
+Disposal of hazardous waste via Hazardous Materials bin and approved waste carrier (where applicable)
+Disposal of WEEE via approved waste carrier
+Pre-event briefing or toolbox talk to staff/volunteers/members to ensure awareness of waste controls
+Proactively managed by Management Representative(s)",2,2,4,L
+,,,,,,,,,,
+Notes:,,,,,,,,,,
+This risk assessment is a working document and as such will be updated as and when necessary.,,,,,,,,,,
+ALL health and safety near misses and non-conformances MUST be reported to Project Manager / lead who will then report the DB Management Representative,,,,,,,,,,
+ALL environmental near misses and non-conformances MUST be reported to Mark Danvers or a DB Management Representative no matter how minor.,,,,,,,,,,
+,,,,,,,,,,
+Further Controls:,,,,,,,,,,
+Risks to be monitored each day as follows:,,,,,,,,,,
+"Build Up: As the exhibition activity increases, risks will be constantly monitored and reported back to management team, via 2way, radio, and / or daily meetings & e-mail. This will be passed to all staff/volunteers/members at a daily meeting before work commences.",,,,,,,,,,
+Clients / Organisers / Venue have the duty to report changes to staff/volunteers/members and vice versa.,,,,,,,,,,
+H&S heavily present onsite and PPE required on build up stages. All contractors to provide own PPE as per first control.,,,,,,,,,,
+"Show Days: Daily visual checks of all work areas and equipment by staff/volunteers/members, contractors and management.",,,,,,,,,,
+De-rig – major breakdown of stands - build-up of waste materials with forklifts moving in & out of the halls to be monitored.,,,,,,,,,,
